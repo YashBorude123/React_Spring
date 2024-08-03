@@ -1,0 +1,1 @@
+This Project is a Rest Api built using Spring Boot and PostgreSQL as a Database. I had used Postman API for Request and Response calls. This project mainly focuses on request-response of Shipping comapnys data.
